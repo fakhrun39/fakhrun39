@@ -1,6 +1,5 @@
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fakhrun39&hide_border=true)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhrun39)
 
