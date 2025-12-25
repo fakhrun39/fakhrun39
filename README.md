@@ -14,4 +14,4 @@
 - 🔹 JobHub platform
 - 🔹 WhatsApp utilities
 
-📫 Reach me: email@email.com
+📫 Reach me: fakhrunnuha123@gmail.com
